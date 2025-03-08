@@ -1,9 +1,10 @@
-## 👋 Hi, I’m @ShubhamSChede
-- 👀 I’m interested in web / app development
-- 🌱 I’m currently learning reactnative, next js
-- 👯 I’m looking to collaborate on Web/App dev Project
-- 🔗 Know more about me at [My Website]([#](https://personal-portfolio-khaki-eight-44.vercel.app/))
-- 📫 How to reach me: shubhamchede1602@gmail.com
+## 👋 Hi, I’m @ShubhamSChede  
+
+- 👀 I’m interested in web and app development.  
+- 🌱 Currently learning React Native and Next.js.  
+- 👯 Looking to collaborate on web and app development projects.  
+- 🔗 Know more about me: [My Website](https://personal-portfolio-khaki-eight-44.vercel.app/)  
+- 📫 Reach me at: shubhamchede1602@gmail.com  
 
 ---
 
